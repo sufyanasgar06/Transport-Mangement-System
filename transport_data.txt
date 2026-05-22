@@ -1,0 +1,21 @@
+#STUDENTS
+6
+1|Sufyan|123|CS|3|Approved|1|10|0
+2|Ali|456|CS|4|Not Applied|-1|-1|0
+3|Sara|789|EE|2|Not Applied|-1|-1|0
+4|ali|123|Cs|2|Not Applied|-1|-1|0
+5|ali|123|d|2|Not Applied|-1|-1|0
+6|ali|123|cs|2|Not Applied|-1|-1|0
+#VEHICLES
+3
+Bus|10|LEA-100|50|1|1
+Van|20|LEA-200|15|2|0
+Bus|30|LEA-300|45|3|0
+#ROUTES
+3
+1|Johar Town|UET Lahore|15.5|10|1
+2|Valencia|UET Lahore|12|20|0
+3|Model Town|UET Lahore|10|30|0
+#BILLS
+1
+1|5000|1
